@@ -26,4 +26,3 @@
   <a href = "mailto:carlosfranco.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
  
- [![readme](https://github-readme-stats.vercel.app/api/pin/?username=carlosfrancog&repo=carlosfrancog&theme=react)](https://github.com/Carlosfrancog/Carlosfrancog)
