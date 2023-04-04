@@ -25,5 +25,5 @@
  <a href="https://discord.gg/twdHDKTmCQ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:carlosfranco.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
-
- ##
+ 
+ [![readme](https://github-readme-stats.vercel.app/api/pin/?username=carlosfrancog&repo=carlosfrancog&theme=react)](https://github.com/Carlosfrancog/Carlosfrancog)
