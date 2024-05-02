@@ -2,7 +2,8 @@
 
 
 - 👨 Me chamo Carlos Eduardo Franco Gabriel
-- ⭐ Tenho 18 anos
+- ⭐ Tenho 19 anos
+- 🪛Técnico de informática
 - 💻 Estou cursando Ciências da Computação
 
 <div style="display: inline_block"><br>
